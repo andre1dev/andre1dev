@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
 - 🌱 Faço analise e desenvolvimento de sistemas
-- 🌱 Estagiando como suporte tecnco e atendimento ao cliente
+- 🌱 Estagiando como suporte tecnco
 - 🌱 E a noite fazendo curso de FullStack 
 - 🌱 Estudando typescript e react
 - 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 985892750

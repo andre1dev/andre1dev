@@ -1,8 +1,11 @@
 ### Ola, seu sou o Andre Assis, tenho 22 anos. Moro em manaus-AM
 
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
+- 🌱 Faço analise e desenvolvimento de sistemas
+- 🌱 Estagiando como suporte tecnco e atendimento ao cliente
+- 🌱 E a noite fazendo curso de FullStack 
 - 🌱 Estudando typescript e react
-- 👯 Contate-me no Email: andreassis326@gmail.com
+- 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 985892750
 - ""
 ##
 <div align="center">         

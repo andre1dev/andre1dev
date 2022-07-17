@@ -3,6 +3,7 @@
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
 - 🌱 Estudando typescript e react
 - 👯 Contate-me no Email: andreassis326@gmail.com
+- ""
 ##
 <div align="center">         
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

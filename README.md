@@ -1,9 +1,9 @@
 ### Ola, seu sou o Andre Assis, tenho 22 anos. Moro em manaus-AM
 
-- 🔭 Atualemnte indo para o front-end. Mas em breve um FullStack
+- 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
 - 🌱 Estudando typescript e react
 - 👯 Contate-me no Email: andreassis326@gmail.com
-- 😄 Pronouns: Ele/Dele
+##
 <div align="center">         
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>

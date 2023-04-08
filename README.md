@@ -1,4 +1,4 @@
-### Hi ^^,sou o Andre Assis.
+### Hi ^^ sou André Assis.
 
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
 - 🌱 Formando em: Analise e desenvolvimento de sistemas

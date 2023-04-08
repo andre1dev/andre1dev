@@ -1,7 +1,7 @@
 ### Ola, seu sou o Andre Assis. Moro em manaus-AM
 
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
-- 🌱 Formando em: analise e desenvolvimento de sistemas
+- 🌱 Formando em: Analise e desenvolvimento de sistemas
 - 🌱 Estagiand em T.I.
 - 🌱 Estudando typescript e react
 - 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 993742886

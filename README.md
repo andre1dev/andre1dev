@@ -1,8 +1,8 @@
-### Ola, seu sou o Andre Assis, tenho 22 anos. Moro em manaus-AM
+### Ola, seu sou o Andre Assis. Moro em manaus-AM
 
 - 🔭 Atualmente indo para o front-end. Mas em breve um FullStack
-- 🌱 Faço analise e desenvolvimento de sistemas
-- 🌱 Estagiand em T.I
+- 🌱 Formando em: analise e desenvolvimento de sistemas
+- 🌱 Estagiand em T.I.
 - 🌱 Estudando typescript e react
 - 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 993742886
 - ""
@@ -22,7 +22,7 @@
 <div> 
 <br>
 <div align="center">
-  <a href="https://instagram.com/dre.sxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dre.sxs?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andreassis326@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andré-assis-57128a1a9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

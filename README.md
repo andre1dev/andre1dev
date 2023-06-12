@@ -1,7 +1,7 @@
 ### Hi ^^ sou André Assis.
 - 🌱 Formando em: Analise e desenvolvimento de sistemas
 - 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 993742886
-- ""
+
 ##
 <div align="center">         
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>

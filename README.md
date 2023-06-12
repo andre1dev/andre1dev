@@ -8,8 +8,8 @@
 - ""
 ##
 <div align="center">         
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAssisDEV&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAssisDEV&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,6 +36,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 <br>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AndreAssisDEV/count.svg" /></p>
 
 
 ![snake gif](https://github.com/AndreAssisDEV/AndreAssisDEV/blob/output/github-contribution-grid-snake.svg)

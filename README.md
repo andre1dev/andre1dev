@@ -7,8 +7,8 @@
 
 ##
 <div align="center">         
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AndreAssisDEV&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAssisDEV&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andre1dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre1dev&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +35,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 <br>
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/AndreAssisDEV/count.svg" /></p>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andre1dev/count.svg" /></p>
 <p align="center">
 
 <p align="center">

@@ -1,6 +1,4 @@
 ### Hi ^^ sou André Assis.
-- 🌱 Formando em: Analise e desenvolvimento de sistemas
-- 👯 Contate-me no Email: andreassis326@gmail.com ou Atraves do whastapp : (92) 993742886
 - 💙   Eu amo Games 👾, Gatos 🐱 e Estudar 💻.
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 

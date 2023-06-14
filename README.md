@@ -18,13 +18,13 @@
   ##
 ### Tools:
 <div style="display: inline_block"  align="center">
-    <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
- <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-   <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-   <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-   <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" alt="andre-Js" height="80" width="40"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="andre-Js" height="80" width="40"src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+ <img align="center" alt="andre-Js" height="80" width="60"src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="andre-Js" height="80" width="50"src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+   <img align="center" alt="andre-Js" height="80" width="60"src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+   <img align="center" alt="andre-Js" height="80" width="40"src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img align="center" alt="andre-Js" height="80" width="50"src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 
    
 

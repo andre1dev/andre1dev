@@ -11,7 +11,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre1dev&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div align="center">
-  
+ 
+  ##
 ### Tools:
 <div style="display: inline_block"  align="center">
     <img align="center" alt="andre-Js" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -26,7 +27,8 @@
 
 <div align="center">
   
-### using:
+  ##
+### Ultizing:
 <div style="display: inline_block"  align="center">
   <img align="center" alt="andre-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="andre-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -38,11 +40,13 @@
   <img align="center" alt="andre-Python" height="50" width="40" 
  src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
-<div> 
+
 <div align="center">
+  
   <div align="center">
 
-### social media:
+  ## 
+### Social Media:
   <a href="https://instagram.com/dre.sxs?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://André Assis#3543" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andreassis326@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,11 +55,13 @@
 
 <div align="center">
 
+  ##
 ### Studying in this moment:
 ![Pyyhon](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-</div>
+##
+  </div>
   <div align="center">
 
 

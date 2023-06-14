@@ -1,10 +1,10 @@
 ### Hi ^^ sou André Assis.
 - Desenvolvedor web 
-- amo um cafezinho, as vezes até sem açucar☕️ 
+- Amo um cafezinho, as vezes até sem açucar☕️ 
 - Passo raiva com jogos que eu mesmo crio 
 - Fato curioso: Igualdade nem sempre é igual em Javascript.
-- se preocupe menos com seu CSS e mais com seu HTMl 😉
-- ja disse que eu amo café ?☕️ 
+- Se preocupe menos com seu CSS e mais com seu HTMl 😉
+- Ja disse que eu amo café ?☕️ 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 

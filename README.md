@@ -1,5 +1,10 @@
 ### Hi ^^ sou André Assis.
+- Desenvolvedor web 
+- amo um cafezinho 
+- Passo raiva com jogos que eu mesmo crio 
 - 💙   Eu amo Games 👾, Gatos 🐱 e Estudar 💻.
+- ja disse que eu amo café ?
+- se preocupe menos com seu CSS e mais com seu HTMl 😉
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 

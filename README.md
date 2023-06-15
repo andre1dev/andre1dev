@@ -16,7 +16,7 @@
 <div align="center">
  
   ##
-### Tools:
+### TOOLS:
 <div style="display: inline_block"  align="center">
     <img align="center" alt="andre-Js" height="80" width="40"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="andre-Js" height="80" width="40"src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">

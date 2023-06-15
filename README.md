@@ -31,7 +31,7 @@
 <div align="center">
   
   ##
-### Ultizing:
+### ULTILIZING:
   
 <div style="display: inline_block"  align="center">
     <img align="center" alt="andre-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,7 +50,7 @@
   <div align="center">
 
   ## 
-### Social Media:
+### SOCIAL MEDIA:
   <a href="https://instagram.com/dre.sxs?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://André Assis#3543" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andreassis326@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -60,7 +60,7 @@
 <div align="center">
 
   ##
-### Studying in this moment:
+### STUDYING IN THIS MOMENT:
 ![Pyyhon](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;

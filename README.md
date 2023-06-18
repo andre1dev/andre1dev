@@ -1,4 +1,4 @@
-### Hi ^^ sou André Assis.
+### Hi ^^ sou André Assis
 - Desenvolvedor web 
 - Amo um cafezinho, as vezes até sem açucar☕️ 
 - Passo raiva com jogos que eu mesmo crio 

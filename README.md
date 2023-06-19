@@ -8,9 +8,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 ##
-<div align="center">         
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andre1dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre1dev&layout=compact&langs_count=7&theme=great-gatsby"/>
+<div align="center">  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andre1dev&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre1dev&layout=compact&langs_count=7&theme=neon"/>
 </div>
 <div align="center">
  

@@ -26,7 +26,6 @@
    <img align="center" alt="andre-Js" height="80" width="50"src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 
    
-
 <div align="center">
   
   ##

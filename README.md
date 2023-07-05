@@ -6,7 +6,7 @@
 - Ja disse que eu amo café ?☕️ 
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
+ 
  ##
 <div align="center">  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andre1dev&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>  
